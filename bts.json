@@ -1,4 +1,6 @@
 {
-	"name" : "bts"
-	"origin" : "coreenne"
+	"name" : "bts",
+	"origin" : "coreenne",
+	"member" : ["jin", "suga", "v", "jhope", "rm", "jungkook", "jimin"]
+
 }
