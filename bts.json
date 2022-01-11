@@ -1,6 +1,19 @@
 {
 	"name" : "bts",
 	"origin" : "coreenne",
-	"member" : ["jin", "suga", "v", "jhope", "rm", "jungkook", "jimin"]
+	"member" : [
+		{
+			"name": "jin",
+			"age" : 26
+		}, 
+		{
+			"name" : "suga" ,
+			"age" : "25"
+		}, 
+		{
+			"name" : "v",
+			"age" : "22"
+		}, 
+		"jhope", "rm", "jungkook", "jimin"]
 
 }
